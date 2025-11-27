@@ -92,6 +92,7 @@ strong {
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 22px;
+  white-space: nowrap;
 }
 
 papertitle {
